@@ -46,3 +46,19 @@ java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquir
 
 !ENTRY org.eclipse.core.net 1 0 2017-04-18 14:47:01.515
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2017-04-18 19:24:38.836 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/NoahFranck/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Users/NoahFranck/Desktop/WIP/MinecraftModDev -product org.eclipse.epp.package.java.product -keyring /Users/NoahFranck/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2017-04-18 19:24:52.413
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-04-18 19:27:38.143
+!MESSAGE Invalid ZIP archive: /Users/NoahFranck/.gradle/caches/minecraft/net/minecraftforge/forge/1.10.2-12.18.3.2281/snapshot/20161111/forgeSrc-1.10.2-12.18.3.2281.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-04-18 19:27:47.822
+!MESSAGE Invalid ZIP archive: /Users/NoahFranck/.gradle/caches/minecraft/net/minecraftforge/forge/1.10.2-12.18.3.2281/snapshot/20161111/forgeSrc-1.10.2-12.18.3.2281.jar
