@@ -6,6 +6,6 @@ public class Reference {
 	public static final String Version = "1.0.0";
 	public static final String AcceptedVersions = "[1.10.2]";
 	
-	public static final String clientProxyClass = "";
-	public static final String ServerProxyClass = "";
+	public static final String clientProxyClass = "Ultimatedeath11.ModTest.proxy.ClientProxy";
+	public static final String ServerProxyClass = "Ultimatedeath11.ModTest.proxy.ServerProxy";
 }
