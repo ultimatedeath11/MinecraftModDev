@@ -1,5 +1,5 @@
 package ultimatedeath11.ModTest.proxy;
 
-public class CommonProxy {
+public interface CommonProxy {
 
 }
